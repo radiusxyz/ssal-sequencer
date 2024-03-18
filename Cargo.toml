@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "ssal-client",
+    "ssal-commitment",
+    "ssal-core",
+    "ssal-database",
+    "ssal-sequencer",
+]
+resolver = "2"

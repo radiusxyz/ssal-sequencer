@@ -1,0 +1,3 @@
+[submodule "ssal-avs"]
+	path = ssal-avs
+	url = https://github.com/radiusxyz/ssal-avs
